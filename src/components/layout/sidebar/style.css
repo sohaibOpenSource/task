@@ -1,0 +1,6 @@
+.liste {
+    direction: rtl;
+    height: 650px;
+    overflow: auto;
+    width: 100%;
+}
